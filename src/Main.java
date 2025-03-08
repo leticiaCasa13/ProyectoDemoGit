@@ -10,6 +10,8 @@ public class Main {
 
     public static void method1(){
 
+        System.out.println("Modificado por colaborador 1");
+
     }
 
     public static void method2(){
