@@ -4,4 +4,3 @@ public class Saludo {
         System.out.println("Hello world!");
     }
 }
-q
