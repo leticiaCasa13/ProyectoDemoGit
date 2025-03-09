@@ -15,15 +15,15 @@ public class Main {
     }
 
     public static void method2(){
-
+        System.out.println("Modificado por colaborador 2");
     }
 
     public static void method3(){
-
+        System.out.println("Modificado por colaborador 3");
     }
 
     public static void method4(){
-
+        System.out.println("Modificado por colaborador 4");
     }
 
 
