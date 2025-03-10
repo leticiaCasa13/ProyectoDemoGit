@@ -22,7 +22,7 @@ public class Main {
     public static void method3(){
         System.out.println("Modificado por el líder");
         System.out.println("Modificado por el colaborador 3.");
-        //V2
+        //V3
 
     }
 
