@@ -9,7 +9,7 @@ public class Main {
     }
 
     public static void method1(){
-
+        //HOLA
         System.out.println("Modificado por colaborador 1");
 
     }
