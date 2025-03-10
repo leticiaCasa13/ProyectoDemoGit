@@ -16,7 +16,7 @@ public class Main {
 
     public static void method2(){
         System.out.println("Modificado por colaborador 2");
-
+        //ADIOS
     }
 
     public static void method3(){
